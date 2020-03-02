@@ -1,2 +1,5 @@
 # Big files
 data/qs.crops_*
+
+# swap files
+*.swp
